@@ -1,0 +1,34 @@
+# requirements.txt (For a more advanced, hypothetical project)
+
+# Core App & UI
+streamlit
+
+# Data Handling
+pandas
+
+# Visualizations
+plotly
+
+# --- EXTRA LIBRARIES FOR ADVANCED FEATURES ---
+
+# Database Connection (e.g., for PostgreSQL)
+sqlalchemy
+psycopg2-binary
+
+# For writing to Excel files (.xlsx)
+openpyxl
+
+# For making API calls to online services
+requests
+
+# For Machine Learning (e.g., predicting future expenses)
+scikit-learn
+numpy
+
+# For additional or different kinds of static plots
+matplotlib
+seaborn
+
+# For run the file
+
+streamlit run app.py
