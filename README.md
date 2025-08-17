@@ -40,7 +40,7 @@ Basic CSS ✨ (for simple UI styling)
 
 Clone this repository
 
-git clone https://github.com/your-username/weekly-pocket-expense-tracker.git
+git clone https://github.com/rdw3w/Weekly-Pocket-Expense-Tracker-Python-CSV-/tree/main
 
 
 Navigate to the project folder
